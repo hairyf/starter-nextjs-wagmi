@@ -1,7 +1,7 @@
 # 依赖升级风险评估
 
 > 评估日期：2026-02-17
-> 评估人：ops-developer
+> 评估人：developer
 > 项目：starter-nextjs-wagmi
 > 总计过时依赖：33 个
 
